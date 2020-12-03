@@ -1,0 +1,6 @@
+conffile=/etc/sockd.conf
+executable=/usr/sbin/sockd
+sockd.pid=/var/run/sockd.pid
+start.cmd=/usr/sbin/sockd -D
+stop.cmd=/sbin/kill ´cat /var/run/sockd.pid´
+

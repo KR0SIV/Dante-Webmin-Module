@@ -1,0 +1,6 @@
+conffile=Ort der Konfigurations Datei,0
+sockd.pid=Datei mit der PID des Socks-Daemon,0
+executable=Ort des Socks-Daemon,0
+start.cmd=Komandozeile zum starten des Socks-Daemons,0
+stop.cmd=Komandozeile zum stoppen des Socks-Daemons,0
+

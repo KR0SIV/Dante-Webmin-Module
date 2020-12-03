@@ -1,0 +1,5 @@
+name=dante
+desc=Dante Socks-Server
+desc_de=Dante Socks-Server
+depends=proc 0.77
+category=servers

@@ -1,0 +1,6 @@
+conffile=Location of config file,0
+sockd.pid=File with PID of socks-daemon,0
+executable=Location of socks-daemon,0
+start.cmd=Commandline to start the socks-daemon,0
+stop.cmd=Commandline to stop the socks-daemon,0
+

@@ -1,0 +1,6 @@
+conffile=/etc/danted.conf
+executable=/usr/sbin/danted
+sockd.pid=/var/run/danted.pid
+start.cmd=/etc/init.d/danted start
+stop.cmd=/etc/init.d/danted stop
+
